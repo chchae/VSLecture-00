@@ -1,0 +1,2 @@
+*pkl filter=lfs diff=lfs merge=lfs -text
+data/chembl_25/models/10uM/*pkl filter=lfs diff=lfs merge=lfs -text
